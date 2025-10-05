@@ -10,3 +10,8 @@ Jacobo Salazar Gallego
 CC: 1061046067
 jacobo.salazarg@udea.edu.co
 Ingenieria industrial 
+## Integrante #3
+Valentina Naranjo Rios 
+CC 1000414623
+valentina.naranjor@udea.edu.co
+Ingenieria industrial
