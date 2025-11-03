@@ -15,3 +15,5 @@ Valentina Naranjo Rios
 CC 1000414623
 valentina.naranjor@udea.edu.co
 Ingenieria industrial
+## Video entrega 2
+https://youtu.be/m3UP-dWZANs
