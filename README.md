@@ -17,3 +17,5 @@ valentina.naranjor@udea.edu.co
 Ingenieria industrial
 ## Video entrega 2
 https://youtu.be/m3UP-dWZANs
+## Video entrega final
+https://youtu.be/bsYx2YsHrGg
